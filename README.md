@@ -1,3 +1,2 @@
 # HTML-CSS
-
-Storage for HTML and CSS examples
+Storing HTML and CSS examples
